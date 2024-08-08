@@ -1,5 +1,6 @@
 // IN THIS FILE WE ARE ESTABLISHING A CONNECTION WITH THE DATABASE
 
+
 const mongoose = require("mongoose");
 
 require("dotenv").config();
